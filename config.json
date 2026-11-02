@@ -1,0 +1,16 @@
+{
+  "Salute": [
+    {
+      "name": "Xtrackers MSCI World Health Care UCITS ETF 1C",
+      "isin": "IE00BM67HK77",
+      "ticker": "XDWH.DE"
+    }
+  ],
+  "_controllo": [
+    {
+      "name": "Health Care Select Sector SPDR (solo per controllo connessione)",
+      "isin": "",
+      "ticker": "XLV"
+    }
+  ]
+}
